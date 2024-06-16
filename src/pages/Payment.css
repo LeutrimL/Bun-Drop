@@ -1,0 +1,66 @@
+/* src/pages/Payment.css */
+.payment {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+  padding: 20px;
+  margin-left: 750px;
+  margin-top: 50px;
+  width: 300px;
+}
+
+.payment h1 {
+  color: #fa955c;
+  margin-bottom: 20px;
+}
+
+.payment-form {
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fa955c;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.form-group input,
+.form-group select {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+}
+
+.payment-button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: white;
+  color: #fa955c;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.payment-button:hover {
+  background-color: lightblue;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-top: 5px;
+}

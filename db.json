@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Classic Burger",
+      "price": 8.99,
+      "description": "A classic beef burger with lettuce, tomato, and cheese.",
+      "category": "burgers",
+      "image": "https://static.vecteezy.com/system/resources/previews/027/144/278/original/tasty-classic-burger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 2,
+      "title": "Sweet Potato Fries",
+      "price": 4.99,
+      "description": "Crispy sweet potato fries topped with fresh parsley.",
+      "category": "sides",
+      "image": "https://i.ytimg.com/vi/wdvIcau0TxM/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cheeseburger",
+      "price": 9.49,
+      "description": "A juicy beef burger with cheddar cheese, pickles, and onions.",
+      "category": "burgers",
+      "image": "https://www.sargento.com/assets/Uploads/Recipe/Image/burger_0.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bacon Burger",
+      "price": 10.99,
+      "description": "A beef burger topped with crispy bacon, lettuce, and tomato.",
+      "category": "burgers",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "id": 5,
+      "title": "Veggie Burger",
+      "price": 7.99,
+      "description": "A delicious veggie burger made with black beans, topped with avocado and spicy mayo.",
+      "category": "burgers",
+      "image": "https://www.thespruceeats.com/thmb/d4-3wLGWdWQrdsYmcgOgokNDOxg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegan-tofu-veggie-burgers-recipe-3377169-hero-01-a2dd40a53b1c4d3ba21625925cc9e28b.jpg"
+    },
+    {
+      "id": 6,
+      "title": "BBQ Burger",
+      "price": 11.99,
+      "description": "A beef burger with BBQ sauce, cheddar cheese, and onion rings.",
+      "category": "burgers",
+      "image": "https://recipes.net/wp-content/uploads/2021/10/the-best-grilled-bbq-burger-recipe.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Chili Cheese Fries",
+      "price": 5.99,
+      "description": "Fries topped with chili, melted cheese, and jalapeños.",
+      "category": "sides",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw10ymr6UyVEcSZigsdyzWIgkRrAf0fTn2sxmB0s8TXg&s"
+    },
+    {
+      "id": 8,
+      "title": "Curly Fries",
+      "price": 4.49,
+      "description": "Seasoned curly fries served with a side of ketchup.",
+      "category": "sides",
+      "image": "https://t3.ftcdn.net/jpg/00/63/10/78/360_F_63107879_Qx296DU55qZK8pB1tq8t7qmLRYmDYuxp.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Double Burger",
+      "price": 12.99,
+      "description": "A massive burger with double beef patties, double cheese, and all the fixings.",
+      "category": "burgers",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-wide-FS-and-foodporn-55.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Truffle Parmesan Fries",
+      "price": 6.99,
+      "description": "Crispy fries topped with truffle oil and grated Parmesan cheese.",
+      "category": "sides",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-08-Truffle-Fries%2FKitchnKitchn3580-1_01"
+    }
+  ]
+}

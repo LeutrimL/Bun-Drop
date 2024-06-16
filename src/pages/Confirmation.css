@@ -1,0 +1,47 @@
+.confirmation {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+  padding: 20px;
+  margin-left: 550px;
+  margin-top: 50px;
+}
+
+.confirmation h1 {
+  color: #fa955c;
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+
+.confirmation p,
+.confirmation h2,
+.confirmation h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.confirmation ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.confirmation ul li {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fa955c;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  color: white;
+}
+
+.item-title {
+  flex: 2;
+}
+
+.item-quantity,
+.item-price {
+  flex: 1;
+  text-align: right;
+}
